@@ -23,3 +23,5 @@ sf data tree import -p ./data/data-plan.json
 
 8.Open the scratch org:
 sf org open
+
+work with teams
