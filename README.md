@@ -25,3 +25,4 @@ sf data tree import -p ./data/data-plan.json
 sf org open
 
 resolve the conflict
+work with teams
